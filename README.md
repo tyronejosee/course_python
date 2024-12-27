@@ -1,4 +1,4 @@
-# Roadmap
+# **Roadmap**
 
 ## **1. Introducción a Python**
 
@@ -51,18 +51,18 @@
 - **Ámbito de las variables** (local vs global).
 - **Funciones Lambda** (introducción básica).
 
+## **7. Manejo de Errores**
+
+- Introducción a excepciones:
+  - Uso de `try`, `except`, `finally`.
+  - Ejemplos simples como manejo de división entre cero o archivos inexistentes.
+
 ## **6. Manejo de Archivos**
 
 - Leer y escribir archivos:
   - Modos de apertura (`r`, `w`, `a`).
   - Uso de bloques `with`.
   - Lectura línea por línea.
-
-## **7. Manejo de Errores**
-
-- Introducción a excepciones:
-  - Uso de `try`, `except`, `finally`.
-  - Ejemplos simples como manejo de división entre cero o archivos inexistentes.
 
 ## **8. Programación Orientada a Objetos (POO)**
 
