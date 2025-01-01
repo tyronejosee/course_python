@@ -1,0 +1,55 @@
+# **Glosario**
+
+- **API**: Interfaz para que aplicaciones se comuniquen entre sí.
+- **Argumento**: Valor pasado a una función o método.
+- **Atributo**: Propiedad o variable asociada a un objeto.
+- **Booleano**: Tipo de dato que puede ser `True` o `False`.
+- **Bucles (Loops)**: Estructura para repetir código, como `for` o `while`.
+- **Clase**: Plantilla para crear objetos, definida con `class`.
+- **Colección**: Estructura de datos como listas, conjuntos, diccionarios, o tuplas.
+- **Condicionales**: Instrucciones como `if`, `elif` y `else` para tomar decisiones.
+- **Conjunto (Set)**: Colección desordenada y sin duplicados.
+- **Decorador**: Función que modifica el comportamiento de otra función o método.
+- **Def**: Palabra clave para definir una función.
+- **Diccionario**: Colección de pares clave-valor, como `{"nombre": "Ana", "edad": 25}`.
+- **Error**: Situación inesperada que interrumpe el programa.
+- **Excepción**: Error manejable en tiempo de ejecución, como `ValueError`.
+- **Expresión Lambda**: Función anónima, escrita como `lambda x: x + 1`.
+- **Función**: Bloque de código reutilizable, definido con `def`.
+- **Fstring**: Cadena que permite interpolar variables usando `{}`. Ejemplo: `f"Hola, {nombre}"`.
+- **Generador**: Función que devuelve valores uno a uno con `yield`.
+- **Importar**: Incluir módulos o librerías externas con `import`.
+- **Iterador**: Objeto que permite recorrer elementos de una colección.
+- **Lista**: Colección ordenada y mutable, como `[1, 2, 3]`.
+- **Llamada**: Cuando ejecutas una función con sus argumentos.
+- **Método**: Función definida dentro de una clase y asociada a un objeto.
+- **Módulo**: Archivo de Python que contiene funciones y variables reutilizables.
+- **Objeto**: Instancia de una clase con atributos y métodos.
+- **Operador**: Símbolo para realizar operaciones como `+`, `-`, `*`.
+- **Paquete**: Colección de módulos organizados en directorios.
+- **Parámetro**: Variable definida en una función para recibir un argumento.
+- **Path (Ruta)**: Ubicación de un archivo o directorio en el sistema.
+- **Pip**: Herramienta para instalar paquetes en Python.
+- **Return**: Palabra clave para devolver un valor de una función.
+- **Set**: Véase "Conjunto".
+- **String**: Cadena de texto, definida entre comillas.
+- **Tupla**: Colección ordenada e inmutable, como `(1, 2, 3)`.
+- **Variable**: Nombre que almacena un valor.
+- **While**: Bucle que repite código mientras se cumple una condición.
+- **Yield**: Palabra clave en generadores para devolver valores uno a uno.
+- **Try**: Bloque usado para manejar excepciones.
+- **Except**: Bloque para capturar excepciones en un `try`.
+- **Finally**: Bloque que siempre se ejecuta al final de un `try-except`.
+- **Async/Await**: Palabras clave para manejar programación asíncrona.
+- **Iteración**: Repetición de un proceso, como en un bucle.
+- **Mutabilidad**: Propiedad que permite modificar un objeto después de su creación.
+- **List Comprehension**: Sintaxis para crear listas en una sola línea. Ejemplo: `[x*2 for x in range(5)]`.
+- **Dunder**: Métodos especiales con nombres entre dobles guiones bajos, como `__init__`.
+- **Global**: Variable accesible desde cualquier parte del programa.
+- **Local**: Variable accesible solo dentro de una función.
+- **Herencia**: Concepto de POO que permite que una clase derive de otra.
+- **Polimorfismo**: Habilidad de usar un mismo método en diferentes clases.
+- **Encapsulamiento**: Control de acceso a atributos y métodos en una clase.
+- **JSON**: Formato de intercambio de datos usado en Python mediante `import json`.
+- **Iterator**: Objeto que implementa los métodos `__iter__` y `__next__`.
+- **Comprehensions**: Sintaxis compacta para crear colecciones como listas, conjuntos o diccionarios.
