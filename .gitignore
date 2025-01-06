@@ -1,6 +1,7 @@
 # Project
 functions.md
 cartolas
+temp
 TODO.md
 output.xlsx
 modules.md
@@ -12,6 +13,8 @@ banco_bci.xlsx
 banco_chile.xlsx
 banco_estado.xlsx
 banco_itau.xlsx
+clases.md
+PyInstaller.md
 pokemon_data.xlsx
 
 # Byte-compiled / optimized / DLL files
