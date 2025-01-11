@@ -43,9 +43,7 @@ def crear_dataframe_pokemon(datos_pokemon):
 def guardar_en_excel(df_pokemon, nombre_archivo="pokemon_data.xlsx"):
     """Guarda el DataFrame en un archivo Excel."""
     try:
-        df_pokemon.to_excel(
-            nombre_archivo, index=False
-        )  # index=False para no guardar el índice del DataFrame
+        df_pokemon.to_excel(nombre_archivo, index=False)
         print(f"Datos guardados en {nombre_archivo}")
     except Exception as e:
         print(f"Error al guardar el archivo Excel: {e}")
@@ -62,7 +60,7 @@ def main():
 
     df_pokemon = crear_dataframe_pokemon(datos_pokemon)
 
-    if not df_pokemon.empty:  # Verifica que el dataframe no este vacio
+    if not df_pokemon.empty:
         guardar_en_excel(df_pokemon)
     else:
         print("No se pudieron obtener datos para crear el DataFrame.")
