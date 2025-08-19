@@ -1,0 +1,19 @@
+# Notebooks
+notebook
+jupyterlab
+ipykernel
+ipython
+
+# Ciencia de datos y visualización
+pandas
+matplotlib
+
+# Imágenes y PDF
+pillow
+reportlab
+
+# Linters y formato de código (opcional, buenas prácticas)
+black
+yapf
+ruff
+mypy
