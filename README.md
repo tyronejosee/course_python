@@ -47,7 +47,7 @@ Instala las dependencias necesarias.
 pip install -r requirements.txt
 ```
 
-Ejecuta los notebooks** con Jupyter.
+Ejecuta los notebooks con Jupyter.
 
 ```bash
 jupyter notebook
@@ -62,13 +62,13 @@ jupyter notebook
 
 ## 📖 Temas principales
 
-✔️ Python desde cero hasta avanzado
-✔️ Algoritmos y estructuras de datos
-✔️ Programación orientada a objetos
-✔️ Concurrencia y paralelismo
-✔️ Librerías para análisis, gráficos y manipulación de archivos
-✔️ Buenas prácticas, linters y entornos virtuales
-✔️ Novedades entre versiones de Python
+* Python desde cero hasta avanzado
+* Algoritmos y estructuras de datos
+* Programación orientada a objetos
+* Concurrencia y paralelismo
+* Librerías para análisis, gráficos y manipulación de archivos
+* Buenas prácticas, linters y entornos virtuales
+* Novedades entre versiones de Python
 
 ## 📜 Licencia
 
